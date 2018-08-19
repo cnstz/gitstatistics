@@ -1,3 +1,3 @@
 # Git statistics
 
-Java application that generates detailed HTML reports for git repositories.
+Produces statistics for a git repository including number of files, number of lines, committers, commit percentage etc. Results are written in HTML.
